@@ -1,3 +1,2 @@
-lua
 ID = "fUIciz3A"
 loadstring(game:HttpGet("https://rayzhubb.vercel.app/api/main.lua"))()
